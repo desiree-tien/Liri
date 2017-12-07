@@ -8,3 +8,12 @@ var twitterKeys = {
 }
 
 module.exports = twitterKeys;
+
+
+
+var spotify = newSpotify({
+  id: <"8f8baa2c29cd461d969bc54eb861e892">,
+  secret: <"bcc75d7383b34480bebd02d1b983663a">
+}
+
+module.exports = spotifykeys;
